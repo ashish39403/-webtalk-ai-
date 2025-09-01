@@ -1,0 +1,5 @@
+langchain
+langchain-ollama
+python-dotenv
+streamlit
+streamlit-chat
