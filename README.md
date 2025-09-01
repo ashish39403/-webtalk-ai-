@@ -1,4 +1,7 @@
-💬 Chat with Website 🤖
+# WEBTALK - AI 🤖
+
+### 💬 Chat with Website 
+
 
 Interact with any website like you’re chatting with it! ⚡
 This app lets you enter a website URL and start asking questions — powered by LangChain + Ollama + Chroma.
